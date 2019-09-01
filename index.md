@@ -18,4 +18,9 @@
 16. poach
 17. feud
 18. unprecedented
+19. litigation
+20. lucrative
+21. exemplify
+22. prominent
+23. diminish
 <hr />

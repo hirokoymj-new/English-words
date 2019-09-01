@@ -238,9 +238,6 @@ https://eow.alc.co.jp/search?q=intensify
 - /fjud/
 - 確執、不和, 争い
 >a bitter feud between two of the stte academic titans, USC agreed this week to pay the University of California $50 million
-
-
-
 <hr />
 
 <h1>unprecedented <small>(a)</small></h1>
@@ -258,14 +255,79 @@ https://eow.alc.co.jp/search?q=intensify
 
 <hr />
 
-<h1>word</h1>
+<h1>litigation <small>(n)</small></h1>
+
+- 訴訟
+- the process of taking an argument between people or groups to a court of law:
+- Both sides agreed to the settlement to avoid the expense of **litigation**.
+
 <hr />
+
+<h1>lucrative <small>(a)</small></h1>
+
+- もうかる、利益の上がる
+- Synonyms: profitable
+- Opposite: unprofitable
+- UC accused its private rival of repeatedly stealing away top scientists and their oucrative research.
+- [weblio](https://ejje.weblio.jp/content/lucrative)
+- [alc](https://eow.alc.co.jp/search?q=lucrative)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/lucrative)
+- [webster](https://www.merriam-webster.com/dictionary/lucrative)
+
+<hr />
+
+<h1>exemplify <small>(v)</small></h1>
+
+- ～の良い［典型的な］例となる
+- ～の実例を挙げる［示す］
+- /ɪɡˈzem·pləˌfɑɪ/
+- exemplified; exemplifying
+- to be a typical example of something: 
+- American fashion is exemplified by jeans and T-shirts.
+- **Synonyms**: demonstrate, illustrate, instance
+- **None**: example
+- [weblio](https://ejje.weblio.jp/content/exemplify)
+- [alc](https://eow.alc.co.jp/search?q=exemplify)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/exemplify)
+- [webster](https://www.merriam-webster.com/dictionary/exemplify)
+<hr />
+
+<h1>prominent <small>(a)</small></h1>
+
+- 有名な
+- 目立つ、派手な
+- very noticeable, important, or famous:
+  >a prominent Democrat
+  >a prominent member of the Saudi royal family
+	>The government should be playing a more prominent role in promoting human rights.
+
+- prominent adjective (FAMOUS)
+- prominent adjective (NOTICEABLE)
+- (noun): prominence
+- (adverb): prominently
+- [weblio](https://ejje.weblio.jp/content/prominent)
+- [alc](https://eow.alc.co.jp/search?q=prominent)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/prominent)
+- [webster](https://www.merriam-webster.com/dictionary/prominent#synonyms)
+<hr />
+
+<h1>diminish <small>(v)</small></h1>
+
+- を少なくする、減らす
+- /dəˈmɪn·ɪʃ/
+- diminished; diminishing; diminishes
+- to make less or cause to appear less
+	>diminish an army's strength
+	>His role in the company was diminished.
+
+- [weblio](https://ejje.weblio.jp/content/diminish)
+- [alc](https://eow.alc.co.jp/search?q=diminish)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/diminish)
+- [webster](https://www.merriam-webster.com/dictionary/diminish)
+
+<hr />
+
 
 <h1>word</h1>
 <hr />
 
-<h1>word</h1>
-<hr />
-
-<h1>word</h1>
-<hr />
