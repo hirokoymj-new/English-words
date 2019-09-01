@@ -223,14 +223,14 @@ https://eow.alc.co.jp/search?q=intensify
   >poached eggs
 - poach verb (TAKE ILLEGALLY)
 - to catch or kill an animal without permission on someone else’s property, or to kill animals illegally to get valuable parts of them:
-  >Anybody you see with a piece of ivory has poached it.
-  >Foreign fishing boats were caught poaching offshore.
-  >USC pays up for poaching a satr UC scientist.
-
+- Anybody you see with a piece of ivory has poached it.
+- Foreign fishing boats were caught poaching offshore.
+- USC pays up for poaching a satr UC scientist.
 - [weblio](https://ejje.weblio.jp/content/poach)
 - [alc](https://eow.alc.co.jp/search?q=poach)
 - [cambridge](https://dictionary.cambridge.org/us/dictionary/english/poach)
 - [webster](https://www.merriam-webster.com/dictionary/poach)
+
 <hr />
 
 <h1>feud <small>(n)</small></h1>
@@ -330,4 +330,3 @@ https://eow.alc.co.jp/search?q=intensify
 
 <h1>word</h1>
 <hr />
-
