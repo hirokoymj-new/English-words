@@ -70,4 +70,107 @@
 - Turkish president wants Moscow to rein in Syrian regime’s offensive 
 - These are the councillors who hold the reins of power.
 - He handed the reins to his successor.
-![](rein.png)
+<hr />
+
+
+<h1>underpin</h1>
+
+- 下につっかいをする、土台を補強する、支持する、実証する
+- underpinned; underpinning; underpins
+- SUPPORT, SUBSTANTIATE
+- underpin a thesis with evidence
+- underpin a structure
+- underpin a sagging building
+- bear, support, sustain,
+- Big-Tech Stocks Underpin Market's Ascent
+
+|  meanings | synonyms  | 
+|---|---|
+|  下からのサポート <br /> support from beneath|  underpin | 
+|  証拠または出典で根拠を挙げ<br />より確証を示すまたは確認する <br /> support with evidence or authority or make more certain or confirm|  bear out(実証する、証明する)|
+
+
+<hr />
+<h1>propel <small>(v)</small></h1>
+
+- pro·​pel | \ prə-ˈpel  \
+- propelled; propelling
+- ～を駆り立てる、～を推進する
+- to cause something to move forward:
+- drive, push
+- [weblio](https://ejje.weblio.jp/content/propel)
+- [alc](https://eow.alc.co.jp/search?q=propel)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/propel)
+- [webster](https://www.merriam-webster.com/dictionary/propel#synonyms)
+<hr />
+
+
+<h1>intensify <small>(v)</small></h1>
+
+- 増大させる、増強させる
+- 増大する、強化する
+- intensified; intensifying
+- to make intense or more intensive : STRENGTHEN
+- https://ejje.weblio.jp/content/intensify
+https://eow.alc.co.jp/search?q=intensify
+<hr />
+
+
+<h1>strengthen <small>(v)</small></h1>
+
+- strength·​en | \ ˈstreŋ(k)-thən
+- 強くする、丈夫にする、増強する
+- strengthened; strengthening
+- to make stronger
+- to become stronger
+- These exercises will strengthen your stomach muscles.
+- He takes herbs to strengthen his immune system.
+- He intensified his training, running 45 miles a week.
+- [webster](https://www.merriam-webster.com/dictionary/strengthen#synonyms)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/intensify)
+- [webster](https://www.merriam-webster.com/dictionary/intensify#synonyms)
+- [weblio](https://ejje.weblio.jp/content/intensify)
+<hr />
+
+
+
+
+<h1>extradition <small>(n)</small></h1>
+
+- (ある国に逃げ込んだ)外国犯人の引き渡し
+- the return of someone accused of a crime to the country where the crime was committed:
+- The demonstrators want the full withdrawal of an extradition bill.
+  
+<hr />
+
+<h1>ascent</h1>
+
+- \ ə-ˈsent
+- 登り、上昇、向上、昇進
+ - They followed a steep ascent to the top of the hill.
+ - our plane broke through some heavy low clouds during its ascent and leveled off once we were above them
+ - Big-Tech stocks underpin Market's Acent
+- [weblio](https://ejje.weblio.jp/content/ascent)
+- [alc](https://eow.alc.co.jp/search?q=ascent)
+- [webster](https://www.merriam-webster.com/dictionary/ascent)
+
+
+<hr />
+
+<h1>word</h1>
+<hr />
+
+<h1>word</h1>
+<hr />
+
+<h1>word</h1>
+<hr />
+
+<h1>word</h1>
+<hr />
+
+<h1>word</h1>
+<hr />
+
+<h1>word</h1>
+<hr />
