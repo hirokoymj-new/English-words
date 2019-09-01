@@ -1,4 +1,4 @@
-<h1>disrupt</h1>
+<h1>disrupt</h1> <small>(v)</small>
 
 - 崩壊させる、粉砕する、破裂させる、(一時的に)混乱させる
 - disrupted; disrupting; disrupts
