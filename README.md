@@ -1,4 +1,4 @@
-<h1>disrupt</h1> <small>(v)</small>
+<h1>disrupt <small>(v)</small></h1>
 
 - 崩壊させる、粉砕する、破裂させる、(一時的に)混乱させる
 - disrupted; disrupting; disrupts
@@ -18,26 +18,28 @@
 <hr />
 
 
-#windfall <small>(n)</small>
+<h1>windfall <small>(n)</small></h1>
+
 - 意外な授かり物、たなぼた
 - something (such as a tree or fruit) blown down by the wind
 - an unexpected, unearned, or sudden gain or advantage
 - an amount of money that you win or receive from someone unexpectedly
 - **Synonyms** - benediction, benefit(利益), blessing(神からの)恩恵), godsend(思いがけない幸運)
- - They received a windfall because of the tax cuts.
- - hitting the lottery jackpot was an incredible windfall for the recently laid-off worker
+  >They received a windfall because of the tax cuts.
+  >hitting the lottery jackpot was an incredible windfall for the recently laid-off worker
 - [cambridge](https://dictionary.cambridge.org/us/dictionary/english/windfall)
 - [weblio](https://ejje.weblio.jp/content/windfall)
 
 <hr />
 
-#Spur <small>(v)</small>
+<h1>Spur <small>(v)</small></h1>
+
 - /spɜr/ 
 - 〔馬に〕拍車を掛ける
 - ～を刺激する、～を促進させる、～を励ます
 - to encourage an activity or development, or to cause something to develop faster:
-- The reward spurred them to work harder.
-- Lower interest rates should spur economic growth.
+	 >The reward spurred them to work harder.
+  >Lower interest rates should spur economic growth.
 - He spurred the horse onward.
 - goad(あおり立てる), prod(～するように〕駆り立てる、促す)
 - [weblio](https://ejje.weblio.jp/content/spur)
@@ -46,7 +48,8 @@
 <hr />
 
 
-#defuse <small>(v)</small>
+<h1>defuse <small>(v)</small></h1>
+
 - 危険など取り除く、鎮める
 - defused; defusing; defuses
 - to make a difficult or dangerous situation calmer:
@@ -58,7 +61,7 @@
 - [webster](https://www.merriam-webster.com/dictionary/defuse#examples)
 <hr />
 
-#rein <small>(v)</small>
+<h1>rein <small>(v)</small></h1>
 
 - 〔馬具の〕手綱 (n)
 - 〔人やものに対する〕統制力(n)
@@ -73,7 +76,7 @@
 <hr />
 
 
-<h1>underpin</h1>
+<h1>underpin <small>(v)</small></h1>
 
 - 下につっかいをする、土台を補強する、支持する、実証する
 - underpinned; underpinning; underpins
@@ -153,14 +156,106 @@ https://eow.alc.co.jp/search?q=intensify
 - [weblio](https://ejje.weblio.jp/content/ascent)
 - [alc](https://eow.alc.co.jp/search?q=ascent)
 - [webster](https://www.merriam-webster.com/dictionary/ascent)
+<hr />
+
+
+<h1>predatory <small>(a)</small></h1>
+
+- \ ˈpre-də-ˌtȯr-ē
+- 肉食の
+- 略奪する
+- predatory attack (略奪目的の襲撃)
+- predatory animal (食肉類)
 
 
 <hr />
 
-<h1>word</h1>
+<h1>law-of-the-jungle</h1>
+- 弱肉強食
+- We hope for a world where the rule of law, not the law of the jungle, governs the conduct of nations.
 <hr />
 
-<h1>word</h1>
+<h1>hatch <small>(v)</small></h1>
+
+- hatched; hatching; hatches
+- (ひなを)かえす
+- ～を生み出す  
+- (計画などをひそかに)立てる
+- **hatch** verb (BREAK EGG)
+- **hatch** verb (PLAN)
+- **hatch** noun (OPENING)
+- The eggs hatched after 21 days. : 卵は21日後に孵化しました
+- to create or decide on a plan, esp. a secret plan:
+- They hatched a plan for a surprise birthday party.
+- Hatch Act (ハッチ法1939年に制定された、連邦職員、および地方政府職員の政治活動への参加の制限に関する法律)
+<hr />
+
+<h1>bury <small>(v)</small></h1>
+
+- \ ˈber-ē
+- buried; burying
+- 〔遺体を〕葬る、埋葬する
+- 〔見えないように物を〕隠す、間に入れる
+- to put a dead body into the ground:
+  >*My father is buried in Kentucky.​*
+- To bury something is also to put it into the ground:
+  >*Squirrels bury nuts and dig them up later to eat them.*
+- To bury something is also to hide it or to make it difficult to find:
+ 	>She buried her face in her hands.
+	>The article was buried in the middle of the newspaper
+  >Trump team buries the Hatch Act.
+  >Trump campaign ignores Hatch Act.
+
+- [weblio](https://ejje.weblio.jp/content/bury)
+- [alc](https://eow.alc.co.jp/search?q=bury)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/bury)
+- [webster](https://www.merriam-webster.com/dictionary/bury)
+<hr />
+
+<h1>poach <small>(v)</small></h1>
+
+- /poʊtʃ/
+- poached; poaching; poaches
+- 不正手段で取る、盗む
+- ゆでる
+- poach verb (COOK)
+- to cook something in water or another liquid that is almost boiling:
+  >poached eggs
+- poach verb (TAKE ILLEGALLY)
+- to catch or kill an animal without permission on someone else’s property, or to kill animals illegally to get valuable parts of them:
+  >Anybody you see with a piece of ivory has poached it.
+  >Foreign fishing boats were caught poaching offshore.
+  >USC pays up for poaching a satr UC scientist.
+
+- [weblio](https://ejje.weblio.jp/content/poach)
+- [alc](https://eow.alc.co.jp/search?q=poach)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/poach)
+- [webster](https://www.merriam-webster.com/dictionary/poach)
+<hr />
+
+<h1>feud <small>(n)</small></h1>
+
+- /fjud/
+- 確執、不和, 争い
+>a bitter feud between two of the stte academic titans, USC agreed this week to pay the University of California $50 million
+
+
+
+<hr />
+
+<h1>unprecedented <small>(a)</small></h1>
+
+- /ʌnˈpres·ɪˌden·tɪd/
+- 前代未聞の
+- never having happened or existed in the past:
+	>We've entered an age of unprecedented prosperity.
+- unprecedented attack (前代未聞の攻撃)
+- unprecedented boom (前例のない,空前の好景気)
+- [weblio](https://ejje.weblio.jp/content/unprecedented)
+- [alc](https://eow.alc.co.jp/search?q=unprecedented)
+- [merriam](https://www.merriam-webster.com/dictionary/unprecedented#examples)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/unprecedented)
+
 <hr />
 
 <h1>word</h1>

@@ -11,5 +11,11 @@
 9. strengthen
 10. extradition
 11. ascent
-
+12. predatory
+13. law-of-the-jungle
+14. hatch
+15. bury
+16. poach
+17. feud
+18. unprecedented
 <hr />
