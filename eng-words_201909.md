@@ -440,3 +440,84 @@ https://eow.alc.co.jp/search?q=intensify
 -  /hɔlt/
 - to stop something
 - Mr. Trup said he decided late Thursday to halt a mikitary strike on Iran only 10 minutes before its scheduled
+
+9/5
+<h1>storm surge <small>(n)</small></h1>
+
+- 高潮
+- storm surge forecasting
+- surge (n) - 急騰, 高潮
+- surge (v) - 〔価格などが〕急上昇する、急騰する
+- surge 12.34, or 5.6 per cent, to 274.22 (12.34ポイントすなわち5.6%上がり274.22ポイントに, 相場価格の言い方)
+- surge ahead at a __% annual rate (年＿％という伸びで上昇する)
+- Dorian's rain, wind and storm surge are lashing the Carolinas.
+- Hurricane and storm surge warnings are posted along the North Carolina coast.
+- Dorian's rain, wind and storm surge are lashing the Carolinas.
+
+![](images/harricane-dorian2.png)
+<hr />
+
+
+<h1>lash <small>(v)</small></h1>
+
+- lashed; lashing; lashes
+- ˈlash
+- (雨・波・風などが)激しく打ちつける, ～をむち打つ
+- (ひもやロープなどで) ～を固定する
+- lash verb (HIT)
+- lash verb (TIE)
+-  Dorian's rain, wind and storm surge **are lashing** the Carolinas.
+- [weblio](https://ejje.weblio.jp/content/lash)
+- [alc](https://eow.alc.co.jp/search?q=lash)
+- [cambridge](https://dictionary.cambridge.org/us/dictionary/english/lash)
+- [webster](https://www.merriam-webster.com/dictionary/lash)
+
+<hr />
+
+09/14
+<h1>revamp <small>(v)</small></h1>
+
+- revamped; revamping; revamps
+- 改造する、改良する
+- REMAKE, REVISE
+- RENOVATE, RECONSTRUCT
+- Is Business School Worth It? How MBA Programs Are **Revamping** in 2019
+- Applications to MBA programs across the U.S. are declining. WSJ’s Jason Bellini traveled to Boston University’s Questrom Business School to hear from students who explain why the investment is worth it.
+<hr />
+
+
+<h1>add up <small>(v)</small></h1>
+
+- 計算が合う、つじつまが合う
+- ・The figures don't add up. : 計算が合わない
+- (事実・証拠・行動などが) 意味をなす、納得がいく、なるほどと思える
+- Nothing about this adds up at all. : この件は何から何までおかしい。／まるでつじつまが合わない
+
+- Your Parents’ Financial Advice Is (Kind Of) Wrong
+- The personal-finance playbook(脚本) followed by past generations doesn’t **add up** for many people the way it used to. It's time for some new money rules.
+- (BE REASONABLE)
+- Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+
+<hr />
+
+<h1>boost <small>(v)</small></h1>
+
+- boosted; boosting; boosts
+-  INCREASE, RAISE
+-  slang : STEAL, SHOPLIFT
+-  : to push or shove up from below
+- ～を持ち上げる、～を引き上げる
+- (人や商品を) 販売促進する、集中的に宣伝する
+- (俗)を盗む［万引きする］
+-  a campaign to boost the new fashions
+-  Actress admitted to paying William ‘Rick’ Singer $15,000 to **boost** her daughter’s SAT score
+<hr />
+
+
+<h1>scheme <small>(n)</small></h1>
+
+- 悪巧み、陰謀、策動
+- 計画、構想、スキーム
+- PLAN, PLOT(策略、陰謀)
+- Felicity Huffman Gets 14 Days in Prison for Role in College-Admissions **Scheme**
+
