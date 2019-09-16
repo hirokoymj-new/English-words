@@ -546,12 +546,17 @@ https://eow.alc.co.jp/search?q=intensify
 
 - HIT
 - 殴打、ダメージ、ショック
-- Bayer AG's efforts to fend off thousands of lawsuites against its Roundup herbicide were dealt a symbolic **blow** Wednesday. 
+- Bayer AG's efforts to **fend off** thousands of lawsuites against its **Roundup** herbicide were dealt a symbolic **blow** Wednesday. 
 <hr />
 
 <h1> roundup<small>(n)</small></h1>
 
-- 一勢検挙
+- 一斉逮捕［検挙］、手入れ
+- 〔ニュースの〕総まとめ
+- 駆り集め(家畜の)
+- cattle roundup(家畜の駆り集め)
+- news roundup(ニュースのまとめ)
+- product roundup(製品概要)
 <hr />
 
 
