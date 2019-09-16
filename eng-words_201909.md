@@ -489,10 +489,9 @@ https://eow.alc.co.jp/search?q=intensify
 <h1>add up <small>(v)</small></h1>
 
 - 計算が合う、つじつまが合う
-- ・The figures don't add up. : 計算が合わない
+- The figures don't add up. (計算が合わない)
 - (事実・証拠・行動などが) 意味をなす、納得がいく、なるほどと思える
 - Nothing about this adds up at all. : この件は何から何までおかしい。／まるでつじつまが合わない
-
 - Your Parents’ Financial Advice Is (Kind Of) Wrong
 - The personal-finance playbook(脚本) followed by past generations doesn’t **add up** for many people the way it used to. It's time for some new money rules.
 - (BE REASONABLE)
@@ -520,4 +519,39 @@ https://eow.alc.co.jp/search?q=intensify
 - 計画、構想、スキーム
 - PLAN, PLOT(策略、陰謀)
 - Felicity Huffman Gets 14 Days in Prison for Role in College-Admissions **Scheme**
+<hr />
+
+9/15
+
+<h1>herbicide <small>(n)</small></h1>
+- ˈ(h)ər-bə-ˌsīd
+- 除草剤
+- a chemical that is used to destroy plants, especially weeds
+- German joins ban of Bayer(ドイツ製薬メーカー バイエル) Herbicide. 
+<hr />
+
+<h1>fend off <small>(v)</small></h1>
+
+- \ˈfend
+- 〔攻撃などを〕受け流す、かわす
+- 〔うるさい質問などを〕回避する
+- fended; fending; fends
+- fend: (攻撃・質問などを) かわす
+- fend: (援助無しで)生活する、やっていく
+- old enough to fend for oneself (自立［独り立ち］する時期である,よい年頃である)
+
+<hr />
+
+<h1>blow <small>(n)</small></h1>
+
+- HIT
+- 殴打、ダメージ、ショック
+- Bayer AG's efforts to fend off thousands of lawsuites against its Roundup herbicide were dealt a symbolic **blow** Wednesday. 
+<hr />
+
+<h1> roundup<small>(n)</small></h1>
+
+- 一勢検挙
+<hr />
+
 
