@@ -524,7 +524,8 @@ https://eow.alc.co.jp/search?q=intensify
 9/15
 
 <h1>herbicide <small>(n)</small></h1>
-- ˈ(h)ər-bə-ˌsīd
+
+- ˈ(h)ər-bə-ˌsīd (ハーバサイド)
 - 除草剤
 - a chemical that is used to destroy plants, especially weeds
 - German joins ban of Bayer(ドイツ製薬メーカー バイエル) Herbicide. 
@@ -549,14 +550,112 @@ https://eow.alc.co.jp/search?q=intensify
 - Bayer AG's efforts to **fend off** thousands of lawsuites against its **Roundup** herbicide were dealt a symbolic **blow** Wednesday. 
 <hr />
 
-<h1> roundup<small>(n)</small></h1>
+<h1> roundup <small>(n)</small></h1>
 
 - 一斉逮捕［検挙］、手入れ
-- 〔ニュースの〕総まとめ
+- (ニュースの)総まとめ
 - 駆り集め(家畜の)
 - cattle roundup(家畜の駆り集め)
 - news roundup(ニュースのまとめ)
 - product roundup(製品概要)
 <hr />
 
+9/16
 
+<h1> weigh <small>(v)</small></h1>
+
+- weighed; weighing; weighs
+- /weɪ/
+- weigh verb (CONSIDER)
+- 〔決定するために～を〕比較［品定め・熟考・検討］する
+- Boeing Board to **Weigh** Engineer Overhaul
+<hr />
+
+
+<h1>overhaul <small>(n)</small></h1>
+
+- 全面的な見直し、徹底的調査
+-  /ˌoʊ·vərˈhɔl/
+- Boeing Board to **Weigh** Engineer **Overhaul**
+<hr />
+
+
+<h1>tangible <small>(a)</small></h1>
+
+- 実際の、具体的な
+- \ ˈtan-jə-bəl 
+- tangible achievement(具体的な［目に見える］達成)
+- the first **tangible** internal changes following two deadly crashes of its 737 MAX airliner.
+
+<hr />
+
+
+<h1>revamp <small>(v)</small></h1>
+
+- 改良する、改革する
+- /riˈvæmp/
+- Boeing Co.’s board is expected to consider **revamping** the aerospace giant’s engineering department
+<hr />
+
+
+9/18
+<h1>short of a majority <small>(v n a)</small></h1>
+
+- 過半数を大幅に割っている
+- Exit polls show leader Netanyahu, centrist challenger Gantz both short of a majority
+<hr />
+
+
+<h1>cast <small>(v)</small></h1>
+
+- (票を)投じる、入れる
+- AT THE POLLS: Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, **cast** their votes Tuesday
+<hr />
+
+
+<h1>mandate <small>(n)</small></h1>
+
+- (選挙民が議会などへ与える)権限
+- Hiring school teachers is not part of the mayor's mandate.(学校の教師の雇用は、市長の権限ではありません)
+- mandate (AUTHORITY)
+<hr />
+
+
+<h1>tight <small>(a)</small></h1>
+
+- 〔状況が〕非情に苦しい
+- **Election Results Tight in Israel as Netanyahu Seeks Mandate**
+- 〔スケジュールが〕詰まった、余裕がない
+- 〔予算などが〕逼迫した、厳しい
+- tight adjective (**LIMITED**)
+- (esp. of time or money) available in limited amounts:
+
+```text
+- Arnold has a very tight schedule today and I don’t know if he can see you.
+- We’re on a tight budget and can’t afford to eat out much.
+- Parking is very tight on weekdays around here.
+```
+
+- tight adjective (**CONTROLLED**)
+- strongly controlled:
+
+```text
+Security was tight at the meeting between the two leaders.
+``` 
+
+- tight adjective (**DIFFICULT**)
+- (of situations) difficult or hard to deal with: 
+
+```text
+We were in a tight financial situation.
+```
+<hr />
+
+
+
+<h1>rebuffed <small>(v)</small></h1>
+
+- (好意的な申し出・親切などを〕拒絶する、はねつける
+- rebuffed; rebuffing; rebuffs
+- /rɪˈbʌf/
+- Former military chief Benny Gantz declared victory in Israel’s election and rebuffed Prime Minister Benjamin Netanyahu’s calls for power sharing, 
