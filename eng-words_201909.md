@@ -658,4 +658,60 @@ We were in a tight financial situation.
 - (好意的な申し出・親切などを〕拒絶する、はねつける
 - rebuffed; rebuffing; rebuffs
 - /rɪˈbʌf/
-- Former military chief Benny Gantz declared victory in Israel’s election and rebuffed Prime Minister Benjamin Netanyahu’s calls for power sharing, 
+- Former military chief Benny Gantz declared victory in Israel’s election and **rebuffed** Prime Minister Benjamin Netanyahu’s calls for power sharing, 
+<hr />
+
+
+9/21(Sat)
+<h1>volatile <small>(a)</small></h1>
+
+-  \ ˈvä-lə-tᵊl ヴォrero 
+- (状況などが)危険な、不安定な
+- (化学) 揮発性の, 低温で蒸発しやすいこと。
+<hr />
+
+
+<h1>crude price <small>(n)</small></h1>
+- 原油価格
+- Crude Prices Cap Volatile Week
+
+<hr />
+
+<h1>cap <small>(v n)</small></h1>
+
+- cap [noun] (HAT) 帽子
+- cap [noun] (COVER) ふた
+- cap [verb] (LIMIT) (価格などの〕上限
+- to put a limit on expenses or amounts charged:
+- Our mortgage is capped for five years.
+- The fee would be capped at $100. : 手数料の上限は100ドルとする。
+- Crude Prices Cap Volatile Week
+<hr />
+
+
+<h1>British thermal unit <small>(n)</small></h1>
+
+- British thermal unit
+- (略) Btu ; BTU
+- イギリス熱単位、英サーマルユニット (heat unit◆1 poundの水の温度を 1゜F 上昇させるに要する熱量を表す単位)
+<hr />
+
+<h1>thermal <small>(a)</small></h1>
+
+- 熱の、熱による、温度の
+- (衣類などが) 体温を保つ、保温性の高い［良い］
+- preserving heat
+- Thermal underwear is underwear that has been specially designed to keep you warm.
+<hr />
+
+
+<h1>raid <small>(n)</small></h1>
+
+- (占領目的ではなく、相手に打撃を与えるための)不意の襲撃、奇襲、空襲、(警察の)手入れ
+- a planned attack by a military group that is done suddenly and unexpectedly and is intended to destroy or damage something:
+- an air raid (空襲、空爆)
+- a bombing raid (爆弾攻撃、爆撃)
+- air raid on Tokyo (東京大空襲)
+- Iran Central Bank is targeted with sanctions after oil raid.
+
+<hr />
