@@ -599,7 +599,7 @@ https://eow.alc.co.jp/search?q=intensify
 
 
 9/18
-<h1>short of a majority <small>(v n a)</small></h1>
+<h1>short of a majority <small>(n)</small></h1>
 
 - 過半数を大幅に割っている
 - Exit polls show leader Netanyahu, centrist challenger Gantz both short of a majority
@@ -616,7 +616,8 @@ https://eow.alc.co.jp/search?q=intensify
 <h1>mandate <small>(n)</small></h1>
 
 - (選挙民が議会などへ与える)権限
-- Hiring school teachers is not part of the mayor's mandate.(学校の教師の雇用は、市長の権限ではありません)
+- Hiring school teachers is not part of the mayor's mandate.
+- (学校の教師の雇用は、市長の権限ではありません)
 - mandate (AUTHORITY)
 <hr />
 

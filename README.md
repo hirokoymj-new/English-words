@@ -32,5 +32,29 @@
 30. vow
 31. spare
 32. halt
-33. test
+33. storm surge
+34. lash
+35. revamp
+36. add up
+37. boost
+38. scheme
+39. hrbicide
+40. fend off
+41. blow
+42. roundup
+43. weight
+44. overhaul
+45. tangible
+46. revamp
+47. short of a majority
+48. cast
+49. tight
+50. mandate
+51. rebuffed
+52. volatile
+53. crude price
+54. cap
+55. British thermal unit
+56. thermal
+57. raid
 <hr />
