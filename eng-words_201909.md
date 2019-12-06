@@ -713,6 +713,81 @@ We were in a tight financial situation.
 - an air raid (空襲、空爆)
 - a bombing raid (爆弾攻撃、爆撃)
 - air raid on Tokyo (東京大空襲)
-- Iran Central Bank is targeted with sanctions after oil raid.
+- Iran Central Bank is targeted with sanctions after oil **raid**.
 
 <hr />
+
+9/25
+
+<h1>initiate <small>(v)</small></h1>
+
+
+- (通例重要なことを) 始める、開始する
+- (プログラムなどを) 起動する
+- initiated; initiating
+- initiate [verb] (BEGIN)
+- initiate [verb] (ACCEPT IN GROUP)
+
+- Speaker Nancy Pelosi said the House would **initiate** impeachment proceedings, citing the president’s actions involving Ukraine.
+
+- (人を～に) 入会させる
+- The Rotarians initiated three new members.
+- (ロータリークラブの会員は3人の新しいメンバーを入会させた)
+<hr />
+
+<h1>proceedings <small>(n)</small></h1>
+
+- 手続き
+- impeachment proceedings
+- proceeding in bankruptcy (破産の手続き)
+<hr />
+
+
+<h1>inquiry <small>(n)</small></h1>
+
+- (公の) 取り調べ、調査
+- Impeachment Inquiry
+<hr />
+
+9/26
+<h1>purge <small>(v)</small></h1>
+
+- (敵や望ましくない人物を)追放する、粛清する
+- purge verb [T] (RID)
+- to rid a group or organization of unwanted people:
+- purge verb [T] (REMOVE)
+- to remove something bad or wrong:
+- to **purge** nearly 20 friends and family members of Mr. Neumann and his wife, Rebekah Neumann, according to people familiar with the matter.
+<hr />
+
+
+<h1>sway <small>(v)</small></h1>
+
+〔人の心を〕揺さぶる、〔決心を〕ぐらつかせる、〔人に〕影響を与える、〔人を〕惑わす
+・Don't be swayed by his sweet words. : 彼の甘い言葉に惑わされるな。／彼の甘い言葉にほだされるな。
+
+<hr />
+
+10/14
+<h1>breaches in river levees<small>(v)</small></h1>
+
+- (城壁などを) 破る、破壊する
+- breach verb [T] (BREAK PROMISE/RULE)
+- breach verb [T] (MAKE OPENING)
+- to make an opening in a wall or fence, especially in order to attack someone or something behind it:
+- One of Japan's worst typhoons in decades brought record-breaking rainfall to broad swaths of the country, killing more than two dozen people and causing breaches in river levees that submerged low-lying areas.  
+<hr />
+
+<h1>levees<small>(n)</small></h1>
+
+- 堤防
+<hr />
+
+
+<h1>swath<small>(n)</small></h1>
+
+- 帯状のもの［場所・土地］
+- スワース
+- swath of 
+- broad swath of (広範囲の、広範な)
+- large swath of territory (広大な地域)
