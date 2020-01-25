@@ -101,22 +101,20 @@
 
 <h1>augment<small>(v)</small></h1>
 
-増やす、増加［増大・拡大］させる
-- He took a second job to augment his income. : 彼は収入を増やすために、副業を始めた。
-増補する
-・He augmented the book with an additional chapter. : 彼は補足の章を加えることでその書を増補しました。
-自動
-増える、増加［増大・拡大］する
-レベル12、発音ɔːgmént、カナオーグメントゥ、変化《動》augments ｜ augmenting ｜ augmented、分節aug・ment
+- 増やす、増加［増大・拡大］させる
+- He took a second job to augment his income. (彼は収入を増やすために、副業を始めた)
+- 増補する
+- He augmented the book with an additional chapter.(彼は補足の章を加えることでその書を増補しました)
+- gmént (オーグメントゥ) 
+- augments - augmenting - augmented
 <hr />
 
 
 
-<h1>augmented<small>(a)</small></h1>
+<h1>assassin<small>(n)</small></h1>
 
-assassin
-【名】
-暗殺者【レベル】9、【発音】əsǽsin、【＠】アサシン、
+- 暗殺者
+- əsǽsin(アサシン)
 <hr />
 
 11/16

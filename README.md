@@ -57,4 +57,54 @@
 55. British thermal unit
 56. thermal
 57. raid
+58. initiate
+59. proceedings
+60. inquiry
+61. purge
+62. sway
+63. breaches in river levees
+64. levees
+65. swath
+66. plaintiffs
+67. encephalitis
+68. pneumonia
+69. creatively bankrupt
+70. offensive
+71. reel
+72. malfunction
+73. tributes
+74. mourn
+75. laud
+76. flaw
+77. oversight
+78. ground
+79. hinder
+80. contain
+81. in sight
+82. the Legislature
+83. impede
+84. impose
+85. Flee
+86. outcry
+87. reprise
+88. augment
+89. assassin
+90. convince
+
 <hr />
+
+12/28
+
+defuse - make difficult calmer
+disrupt - break, weather discupt my flight.
+propel - drive, push
+rein - controlled, rein in Sylia
+spur - move forward
+augument - increase, augument his income
+dismay - disappointed
+
+fend off -avoid
+feud
+hinder - make someting delay
+impede - disrupt, make delay
+impose - force

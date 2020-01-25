@@ -717,10 +717,7 @@ We were in a tight financial situation.
 
 <hr />
 
-9/25
-
 <h1>initiate <small>(v)</small></h1>
-
 
 - (通例重要なことを) 始める、開始する
 - (プログラムなどを) 起動する
@@ -763,31 +760,7 @@ We were in a tight financial situation.
 
 <h1>sway <small>(v)</small></h1>
 
-〔人の心を〕揺さぶる、〔決心を〕ぐらつかせる、〔人に〕影響を与える、〔人を〕惑わす
-・Don't be swayed by his sweet words. : 彼の甘い言葉に惑わされるな。／彼の甘い言葉にほだされるな。
-
+- (人の心)を揺さぶる,(決心を)ぐらつかせる,(人に)影響を与える,(人を)惑わす
+- Don't be swayed by his sweet words. : 彼の甘い言葉に惑わされるな。／彼の甘い言葉にほだされるな。
 <hr />
 
-10/14
-<h1>breaches in river levees<small>(v)</small></h1>
-
-- (城壁などを) 破る、破壊する
-- breach verb [T] (BREAK PROMISE/RULE)
-- breach verb [T] (MAKE OPENING)
-- to make an opening in a wall or fence, especially in order to attack someone or something behind it:
-- One of Japan's worst typhoons in decades brought record-breaking rainfall to broad swaths of the country, killing more than two dozen people and causing breaches in river levees that submerged low-lying areas.  
-<hr />
-
-<h1>levees<small>(n)</small></h1>
-
-- 堤防
-<hr />
-
-
-<h1>swath<small>(n)</small></h1>
-
-- 帯状のもの［場所・土地］
-- スワース
-- swath of 
-- broad swath of (広範囲の、広範な)
-- large swath of territory (広大な地域)
