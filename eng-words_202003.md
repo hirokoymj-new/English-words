@@ -1,3 +1,5 @@
+[3/2]
+
 <h1>refrain from<small>(v)</small></h1>
 
 - please refrain from coming into the studios and stay home
@@ -7,7 +9,7 @@
 
 - vigilant about hand-washing
 - 手洗いを怠らない
-- カナビジラント
+- ビジラント
 
 <h1>vigilance<small>(n)</small></h1>
 
