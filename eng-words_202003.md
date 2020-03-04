@@ -1,3 +1,22 @@
+<h1>obstruction</h1>
+
+- for alleged murder, obstruction of justice, and spreading the virus.
+
+<hr />
+
+<h1>injected<small>(v)</small></h1>
+
+- injected more than 13 billon dollars
+
+<hr />
+
+<h1>aggravating</h1>
+
+- of an enigmatic congregation that's been accused of aggravating the coronavirus epidemic in South Korea
+
+<hr />
+
+
 [3/2]
 
 <h1>refrain from<small>(v)</small></h1>
