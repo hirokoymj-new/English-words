@@ -1,5 +1,11 @@
 [3/5]
 
+<h1>Deter</h1>
+
+- Mortgage Rates Hit Record Low, but Coronavirus May Deter Buyers
+
+<hr />
+
 <h1>brace <small>(v)</small></h1>
 
 - brace for the possibility of severe rain
