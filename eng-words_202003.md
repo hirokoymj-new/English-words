@@ -1,10 +1,19 @@
 [3/5]
 
+<h1>brace <small>(v)</small></h1>
+
+- brace for the possibility of severe rain
+- 集中豪雨の場合に備える
+- Concert industry braces for impact.
+
+<hr />
+
 <h1>demolish</h1>
 
 - (建物などを) 解体する、撤去する
 - The old house was demolished to make space for a new one.
 - 新しい家のスペースをつくるため、その古い家は取り壊された。
+
 <hr />
 
 <h1>preside</h1>
