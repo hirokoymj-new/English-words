@@ -63,4 +63,3 @@
 
 - [transitive verb] STOP, dam up
 - to **stem** potential economic disruptions from the coronavirus.
--
