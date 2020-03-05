@@ -1,3 +1,17 @@
+[3/5]
+<h1>demolish</h1>
+- (建物などを) 解体する、撤去する
+- The old house was demolished to make space for a new one.
+- 新しい家のスペースをつくるため、その古い家は取り壊された。
+<hr />
+
+<h1>preside</h1>
+
+- 議長を務める
+- 統括する
+- preside at a meeting
+<hr />
+
 <h1>obstruction of justice</h1>
 
 - 司法妨害
