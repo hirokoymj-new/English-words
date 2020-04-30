@@ -5,12 +5,14 @@
 
 <hr />
 
-<h1>alleged</h1>
+<h1>allege</h1>
 
 - allege, alleged, alleged
 - (法律)申し立てる
-- 
-<h1>injected<small>(v)</small></h1>
+
+<hr />
+
+<h1>inject<small>(v)</small></h1>
 
 - injected more than 13 billon dollars
 - inject fund
@@ -19,7 +21,7 @@
 
 <hr />
 
-<h1>aggravating</h1>
+<h1>aggravate</h1>
 
 - 悪化させる
 - of an enigmatic congregation that's been accused of aggravating the coronavirus epidemic in South Korea
@@ -28,16 +30,14 @@
 
 <h1>congregation <small>(n)</small></h1>
 
-- 宗教的）集会
+- (宗教的）集会
 - 集まった人々、信徒団
-
 
 <h1>enigmatic</h1>
 
 - えたいの知れない
 
 <hr />
-
 
 [3/2]
 
@@ -51,6 +51,7 @@
 - vigilant about hand-washing
 - 手洗いを怠らない
 - ビジラント
+- it is important to stay **vigilant** and do what we can to provide the best environment in our studios so you can continue to practice with peace of mind.
 
 <h1>vigilance<small>(n)</small></h1>
 
