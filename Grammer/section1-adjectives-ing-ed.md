@@ -1,0 +1,1 @@
+# Adjectives ending (bored/boring)
