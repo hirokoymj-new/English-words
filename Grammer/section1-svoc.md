@@ -45,3 +45,6 @@ let「（自由に）～させておく」
 ### References:
 
 https://eikaiwa-highway.com/fifth-sentence-pattern/
+
+第 4 文型：「目的語(O1)＝目的語(O2)ではない」
+第 5 文型：「目的語(O)＝補語(C)」
