@@ -1,4 +1,4 @@
-# SVOC
+# SVOO
 
 - He makes me happy.
 - 「me」＝「happy」
